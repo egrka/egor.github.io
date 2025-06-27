@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /trash/
+Disallow: /tmp/
+Allow: /
+
+Sitemap: https://egor.life//sitemap.xml
